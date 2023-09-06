@@ -1,0 +1,14 @@
+.card {
+  width: 250px;
+  height: 250px;
+  background: rgb(36, 35, 83);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+}
+
+swiper-container {
+  width: auto;
+}
